@@ -34,13 +34,17 @@ A total score for each address is calculated using the formula:
 |---|---|---|---|---|
 |22 Cornelia St, New York, NY 10014| 38|5|27|193|
 |167 Hester St, New York, NY 10013|32|5|11|143|
-|2	49 1st Ave, New York, NY 10003|35|1|16|142|
+|49 1st Ave, New York, NY 10003|35|1|16|142|
 
-The address of 22 Cornelia St, New York, NY 10014 has come on top 
+The address of **22 Cornelia St, New York, NY 10014** has come on top 
 
 ### Discussion
-
+According to the scoring system, the 1st place (22 Cornelia St) was a clear winner, getting signifcant advantage thanks to being close to the top number of subway stops and sushi restaurants. The last address (49 1st Ave) scored poorly on public transort, having only 1 subway stop nearby.
 
 ### Conclusion
+New York City, and especially Manhattan, has exteremely developed infrastructure of public transport and plethora of options to eat out. Granted, the real estate is on the pricy side there, but you can save the money by using public transport instead of buying a car and eating out instead of investing big buck in the kitchen. 
+Even a very demanding citizen can always find something to their taste in NYC!
+
+
 
 section where you conclude the report.
