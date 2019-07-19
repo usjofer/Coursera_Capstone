@@ -44,7 +44,3 @@ According to the scoring system, the 1st place (22 Cornelia St) was a clear winn
 ### Conclusion
 New York City, and especially Manhattan, has exteremely developed infrastructure of public transport and plethora of options to eat out. Granted, the real estate is on the pricy side there, but you can save the money by using public transport instead of buying a car and eating out instead of investing big buck in the kitchen. 
 Even a very demanding citizen can always find something to their taste in NYC!
-
-
-
-section where you conclude the report.
