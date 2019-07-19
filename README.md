@@ -1,9 +1,6 @@
 # Battle of Neighborhood:Coffee, Subway and Sushi
-
-Let's assume we are about to move to New York City. We've found 3 apartments at approximately same price at the following addresses:
-- 49 First Ave, New York, NY 10003 
-- 22 Cornelia St, New York, NY 10014
-- 167 Hester St, New York, NY 10013
+## Introduction
+Let's assume we are about to move to New York City. We've found 3 apartments at approximately same price.
 <br><br>
 **The task is to decide which address is the most favourable to live in according to these criteria:**
 - proximity to subway stations
@@ -18,3 +15,9 @@ The proximity factor is also defined as 500 meters (~1/3 mile).
 |Subway stop|5     | 
 |Coffee shop|3     | 
 |Sushi Rest |2     | 
+
+## Data
+We've found 3 apartments at approximately same price at these addresses:
+- 49 First Ave, New York, NY 10003 
+- 22 Cornelia St, New York, NY 10014
+- 167 Hester St, New York, NY 10013
